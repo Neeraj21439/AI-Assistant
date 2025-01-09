@@ -5,6 +5,7 @@ let chatContainer = document.querySelector(".chat-container");
 let userMessage = null;
 //Enter your gemini API key
 //Enter your gemini API key
+//Enter your gemini API key
 let Api_Url = '/*enter here*/';
 function createChatBox(html, className) {
     let div = document.createElement("div");
