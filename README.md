@@ -30,7 +30,8 @@
 
 ## 🖼️ Project Preview
 <p align="center">
-  <img src="screenshot.png" width="700" alt="Chatbot Screenshot"/>
+ <img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/4e3c57b4-451c-4b7c-ab22-0f15a2393dc0" />
+
 </p>
 
 ---
